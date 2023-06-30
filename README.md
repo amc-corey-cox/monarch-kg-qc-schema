@@ -1,3 +1,10 @@
+DO NOT DEVELOP HERE!!!
+
+This is the amc-corey-cox/monarch-kg-qc-schema repository and development is now at monarch-initiative/monarch-kg-qc-schema.
+
+Please change to the correct repository for development. I will likely delete this repository soon.
+
+
 # monarch-kg-qc-schema
 
 Schema for QC reports on the Monarch KG.
